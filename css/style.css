@@ -1,0 +1,143 @@
+body{
+	padding: 10px;
+}
+
+body ul{
+	list-style: none;
+}
+body h4{
+	color: #B9ADAD;
+	font-weight: bold;
+}
+body h3{
+	color: white;
+	font-weight: bold;
+}
+
+.header .search span{
+	display: inline-block;
+	font-size: 25px;
+	margin-left: 10px;
+	color: #af9d9d;
+	font-weight: bold;
+}
+.header .search .item{
+	padding: 15px;
+	text-align: center;
+}
+.header .menu{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #80fff2;
+	font-weight: bold;
+	color: white;
+}
+.header .menu a{
+	padding:10px;
+	color: white;
+	margin-right: 15px;
+}
+.header .featured_product img{
+	width: 105px;
+	height: 110px;
+	text-align: center;
+}
+.header .product_slide img{
+	width: 105px;
+	height: 110px;
+}
+.header .product_slide .row{
+	margin: auto;
+	width: 80%;
+}
+.header .product_slide .child{
+	text-align: center;
+	padding: 10px;
+}
+
+.body .featured_product .items{
+	margin: auto;
+	width: 73%;
+	margin-top: 30px;
+}
+.body .featured_product .item{
+	border: 1px solid #D1C6C6;
+	border-bottom: 5px solid #00CA96;
+	margin: 0px 30px 30px 30px;
+	width: 250px;
+	height: 275px;
+	float:left;
+	padding: 25px;
+	padding-left: 15px;
+	text-align: center;
+
+}
+.body .featured_product .title{
+	background-color: #00C8B5;
+	color: white;
+	padding-left: 50px;
+	font-weight: bold;;
+	font-size: 22px;
+	vertical-align: middle;
+}
+
+.body .featured_product span{
+	display: inline-block;
+	margin-right: 5px;
+	color: #B9ADAD;
+	font-weight: bold;
+	font-size: 24px;
+}
+.footer .general {
+	padding-bottom: 20px;
+	background-color: #00C9B4;
+	color: white;
+	font-weight: bold;
+}
+.footer .general .container-fluid{
+	margin: auto;
+	width: 75%;
+	text-align: center;
+}
+.footer .general .container-fluid .item ul{
+	
+}
+.footer .general .container-fluid .item ul li{
+	text-align: left;
+}
+
+.footer .copyright{
+	padding: 5px;
+	background-color: #00AD9A;
+	text-align: center;
+	color: white;
+	font-weight: bold
+}
+.clear{
+	clear: both;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+	filter:none !important; 
+}
+body .btn{
+	font-weight: bold;
+}
+#wrap-banner {
+	background-color: #3dbfb1;
+	color: white;
+}
+#banner {
+	
+	width: 986px;
+	margin: 0 auto;
+}
+#right-banner {
+	padding: 50px;
+}
+#shop-now button {
+	
+	border: 2px solid white;
+	background-color: #3dc5b6;
+}
